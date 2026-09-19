@@ -11,7 +11,7 @@
     "https"
   ],
   "paths": {
-    "/": {
+    "/contact/": {
       "get": {
         "tags": [
           "Contacts"
@@ -72,7 +72,7 @@
         }
       }
     },
-    "/{id}": {
+    "/contact/{id}": {
       "get": {
         "tags": [
           "Contacts"
