@@ -5,10 +5,9 @@
     "description": "API for managing contacts",
     "version": "1.0.0"
   },
-  "host": "localhost:8080",
+  "host": "https://cse341-contacts-lmen.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http",
     "https"
   ],
   "paths": {
